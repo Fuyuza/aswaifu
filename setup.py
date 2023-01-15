@@ -8,6 +8,6 @@ setup(
   packages=["aiowaifu"],
   install_requires=[
     "aiohttp>=3.8.3",
-  ]
+  ],
   keywords="waifu anime neko",
 )
