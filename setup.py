@@ -9,5 +9,6 @@ setup(
   install_requires=[
     "aiohttp>=3.8.3",
   ],
+  python_requires='>=3.7',
   keywords="waifu anime neko",
 )
