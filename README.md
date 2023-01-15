@@ -1,11 +1,5 @@
 # aiowaifu (unofficial)
-<p align="center">
- <h2 align="center">
- </h2>
- <p align="center">
-    <img src='https://waifu.pics/favicon.ico'>
- </p>
-
+<img src='https://waifu.pics/favicon.ico'>
 A asynchronous lib of https://waifu.pics.
 
 # Docs
