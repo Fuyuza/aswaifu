@@ -7,11 +7,11 @@ A asynchronous lib of https://waifu.pics.
 
 # lib Usage
 ```py
-import aiowaifu
+import aswaifu
 import aiohttp
 
 async with aiohttp.ClientSession() as session:
-  client = aiowaifu.HttpClient(session)
-  await client.get(endpoint=aiowaifu.endpoint('type', 'category'))
+  client = aswaifu.HttpClient(session)
+  await client.get(endpoint=aswaifu.endpoint('type', 'category'))
   # will return -> https://i.waifu.pics/<FileName>
 ```
