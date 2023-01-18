@@ -1,11 +1,11 @@
 from setuptools import setup
 
 setup(
-  name="aiowaifu",
-  version="0.1",
+  name="aswaifu",
+  version="1.0",
   long_description=open("README.md").read(),
   long_description_content_type='text/markdown',
-  packages=["aiowaifu"],
+  packages=["aswaifu"],
   install_requires=[
     "aiohttp>=3.8.3",
   ],
