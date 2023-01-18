@@ -1,4 +1,4 @@
-# aiowaifu (unofficial)
+# aswaifu (unofficial)
 <img src='https://waifu.pics/favicon.ico'>
 A asynchronous lib of https://waifu.pics.
 
